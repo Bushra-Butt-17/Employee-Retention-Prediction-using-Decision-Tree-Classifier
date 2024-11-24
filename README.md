@@ -48,7 +48,6 @@ The dataset (`Employee.csv`) includes the following columns:
 ## Model Results
 ### Accuracy
 The model achieved an accuracy of **82.5%** on the test dataset.  
-*(Replace X% with your model's accuracy after execution.)*
 
 ### Decision Tree Diagram
 The decision tree is visualized to understand the factors influencing employee retention decisions. See the diagram below:
