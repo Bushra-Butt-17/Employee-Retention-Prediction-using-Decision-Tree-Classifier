@@ -68,7 +68,7 @@ Ensure the following are installed on your system:
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Bushra-Butt-17/Employee-Retention-Prediction-using-Decision-Tree-Classifier
    cd Decision-Tree-Employee-Analysis
    ```
 2. Install dependencies:
